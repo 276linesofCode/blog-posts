@@ -1,8 +1,3 @@
-1. Introductions
-2. Backgrounds
-3. What RGSoC is
-4. And what you're excited to work on
-
 ----------
 
 # Team 276linesofCode - Rails Girls Summer of Code 2017
