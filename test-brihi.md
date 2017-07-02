@@ -13,7 +13,7 @@ Things to take care of:
 	1. Blah blah
 	1. Blah blah blah
 
-So, if you wanna search for something, [Click on me gurllll] (www.google.com)
+So, if you wanna search for something, [Click on me gurllll](www.google.com)
 
 As a wise man once said
 > You live once,
