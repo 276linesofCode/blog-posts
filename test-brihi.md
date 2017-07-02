@@ -8,8 +8,8 @@ __WHY ARE YOU SCOLDING ME?__
 _Umm, Im not?_
 
 Things to take care of:
-*Blah
-*Blah
+* Blah
+* Blah
 	1. Blah blah
 	1. Blah blah blah
 
@@ -22,8 +22,8 @@ As a wise man once said
 _Like isn't it obvious huh_
 
 
--[x] Completed
--[] not completed
+- [x] Completed
+- [] not completed
 
 Im in LOVEEE with markdown -- :revolving_hearts: :heartpulse:
 
