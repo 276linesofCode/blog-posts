@@ -15,8 +15,9 @@ This is when we start our Rails Girls Summer of Code (RGSoC) 2017 program, by wo
 
 ### Who are we?
 
-
+<center>
 <img src="https://github.com/276linesofCode/blog-posts/blob/master/IMG_3774.JPG" width="200">
+</center>
 
 Team 276linesofCode is an amalgamation of all things tech and electronic. The Team comprises of Shravika Mittal and Brihi Joshi, a duo from New Delhi, India, in their sophomore year of College at IIIT Delhi. We are a dynamic duo that believes in learning and strengthening concepts while on the way to developing something.
 
