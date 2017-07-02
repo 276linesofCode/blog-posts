@@ -23,7 +23,7 @@ _Like isn't it obvious huh_
 
 
 - [x] Completed
-- [] not completed
+- [ ] not completed
 
 Im in LOVEEE with markdown -- :revolving_hearts: :heartpulse:
 
