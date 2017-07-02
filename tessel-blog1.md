@@ -16,4 +16,4 @@ What we both waited for, Rails Girls Summer of Code 2017, to work and contribute
 ### Who are we?
 
 
-Team 276linesofCode is an amalgamation of all things tech and electronic. The Team comprises of Shravika Mittal and Brihi Joshi, a duo from New Delhi, India, in their sophomore year of College at IIIT Delhi. Having seen Tessel in
+Team 276linesofCode is an amalgamation of all things tech and electronic. The Team comprises of Shravika Mittal and Brihi Joshi, a duo from New Delhi, India, in their sophomore year of College at IIIT Delhi. Having seen Tessel in as a project in the RGSoC project list of 2017, we were eager to take it up at once since, we felt that through this project we would be able to discover both the horizons - Hardware as well as Software.
