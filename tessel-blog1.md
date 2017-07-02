@@ -25,6 +25,8 @@ Rails Girls Summer of Code is an award-winning global fellowship program aimed a
 
 It is about helping newcomers to the world of programming further expand their knowledge and skills, by contributing to a worthwhile Open Source project. The focus is not on producing highly sophisticated code, but rather participants learning transferable skills from their project work. Apart from inducing coding skills in real world projects, the RGSoC inculcates community building, by introducing its scholars to the mentors who are in control of the actual projects.
 
+You may have a look at their [website](https://railsgirlssummerofcode.org/).
+
 ## What are we here for?
 
 First and most important of all, __to have fun!__ We are way too excited to start contributing and giving our best to this community.
