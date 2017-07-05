@@ -38,7 +38,9 @@ RGSoC has both the sides - technical as well as social. Apart from working on th
 
 This year, 20 teams were selected among which, 16 are Sponsored teams (We are one of them :smile:) and 4 are Volunteer teams.
 
-## What are we here for?
+### About our mentor - Kelsey
+
+### What are we here for?
 
 First and most important of all, __to have fun!__ We are way too excited to start contributing and giving our best to this community.
 Before the program started, we went through the Tessel repositories, got our development boards and familiarised ourselves with JavaScript. Soon after the program began, we sent in a few PRs to understand the contribution protocol of Tessel.
