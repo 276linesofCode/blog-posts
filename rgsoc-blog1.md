@@ -5,3 +5,6 @@ Points to consider -
 4. Tips we would like to share.
 5. Photo with coaches and mentor if possible(coaches, mentor intro) 
 6. Achievements so far.
+
+Things we need to keep in mind - 
+1. Adding image credits
