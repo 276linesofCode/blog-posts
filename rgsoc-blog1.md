@@ -11,3 +11,4 @@ Points to consider (I want to add more quirky questions to the list) -
 Things we need to keep in mind - 
 1. Adding image credits
 2. Markdown doesn't support GitHub
+3. Read the how to contribute guidelines for RGSoC repo.
