@@ -1,3 +1,14 @@
+---
+title: To add
+layout: post
+created_at: Wed July 12 2017
+permalink: blog/2017-07-12-Add name of blog
+current: blog
+author: Brihi and Shravika
+twitter: 276linesofCode
+categories: student-posts
+---
+
 Points to consider (I want to add more quirky questions to the list) -
 1. Who are we? Individual Introductions - our photo
 2. About the project.
@@ -12,15 +23,3 @@ Things we need to keep in mind -
 1. Adding image credits
 2. Markdown doesn't support GitHub
 3. Read the how to contribute guidelines for RGSoC repo.
-
-----
----
-title: __To add__
-layout: post
-created_at: Wed July 12 2017
-permalink: blog/2017-07-12-__Add name of blog__
-current: blog
-author: Brihi and Shravika
-twitter: 276linesofCode
-categories: student-posts
----
