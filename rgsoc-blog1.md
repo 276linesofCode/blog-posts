@@ -45,8 +45,8 @@ It was a cold January morning on the 20th, when we had our first video call with
 
 It was February 2017 **(cracks knuckles)** and the application for RGSoC was in full swing. We were still devoid of coaches, which we were in dire need of. We first came across Dana (**Add link????**) in the RGSoC Google Group, who was kind enough to agree to coach us - all the way from Hong Kong! 
 
-On 3rd February, we got in touch with Jigyasa Grover on twitter. She messaged us saying that she would be willing to coach our team during RGSoC 2017.
+On 3rd February, we got in touch with Jigyasa Grover on twitter. She messaged us saying that she would be willing to coach our team during RGSoC 2017. We got in touch with another coach of ours, Umair Khan through Jigyasa.
 
-The whole of February went in looking for coaches for which we even approached some teams in our University which were past RGSoC scholars. During this search we got in contact with two of our seniors at our University - Sanchit Gupta and Divam Gupta (**links to be added**).
+The whole of February went in looking for coaches for which we even approached some teams in our University which were past RGSoC scholars. During this search we got in contact with two of our seniors at our University - Sanchit Gupta and Divam Gupta (**links to be added**). They guided us through the entire application process including reviewing it a several number of times and suggesting what all points to add, what to delete, sharpening the language etc.
 
 We met Diksha Deo at a Women Who Code, Delhi meetup. We got to know that she has an expertise in IoT. She willingly agreed to be our guide.
