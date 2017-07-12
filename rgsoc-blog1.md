@@ -31,7 +31,7 @@ It was January 18th, when we were casually scrolling through the list of selecte
 
 It was a cold January morning on the 20th, when we had our first video call with her. She was so supportive, introducing us to some contribution starters in Tessel, along with the work culture in an Open Source project. It made us more determined to apply, now that we knew Tessel was what we wanted to work on.
 
-It was February 2017 and applications for RGSoC were in full swing 💪🏼 ✌🏼. We were still devoid of coaches, which we were in dire need of. We first came across [Dana]() in the RGSoC Google Group, who was kind enough to agree to coach us - all the way from Hong Kong!
+It was February 2017 **(cracks knuckles)** and the application for RGSoC was in full swing. We were still devoid of coaches, which we were in dire need of. We first came across [Dana]() in the RGSoC Google Group, who was kind enough to agree to coach us - all the way from Hong Kong!
 
 On 3rd February, we got in touch with Jigyasa on twitter. She messaged us saying that she would be willing to coach our team during RGSoC 2017. We got in touch with another coach of ours, Umair through Jigyasa.
 
@@ -60,13 +60,13 @@ After a long wait, came May 1st, "The" day. It was 6 AM in the morning, when bot
 
 [__Jigyasa :__](https://twitter.com/jigyasa_grover)
 
-[__Umair :__](https://twitter.com/omerjerk)
+[__Umair :__](https://twitter.com/omerjerk) Umair is a full-stack developer with extensive Android and Web projects under his hat. He’s passionate about building scalable products from scratch. In his free time, he likes to contribute to open source.
 
-[__Sanchit :__](https://www.linkedin.com/in/iamsanchitgupta/)
+[__Sanchit :__](https://www.linkedin.com/in/iamsanchitgupta/) Sanchit is a budding researcher who aims to help the humanity progress forward by doing cutting-edge research in Computer Science. He has recently completed his undergrad from IIIT-Delhi, and loves to play chess in his free time.
 
 [__Divam :__](https://github.com/divamgupta) Divam is a Senior at IIIT Delhi, majoring in Computer Science. His interests lie in Data Science, more specifically Deep Learning. He is extremely fluent in Python and JavaScript and is always up for helping others.
 
-[__Diksha :__](http://dikshadeo.com/)
+[__Diksha :__](http://dikshadeo.com/) Diksha Deo is a technology coach, speaker and Entrepreneur. Hails from New Delhi, working with various tech communities and owner of IoT solution provider company called Incubsence. Her endless curiosity and enthusiasm to learn and how everything works makes Diksha a "pro" in uniting digital and physical worlds.
 
 ### The Supervisor
 
