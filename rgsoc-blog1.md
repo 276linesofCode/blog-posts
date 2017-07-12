@@ -58,7 +58,7 @@ After a long wait, came May 1st, "The" day. It was 6 AM in the morning, when bot
 
 [__Dana :__](https://www.linkedin.com/in/danatuoliu/) Dana is a consultant specializing in healthcare compliance technology. She is located in Hong Kong, and has been actively involved in various programs promoting women in technology.
 
-[__Jigyasa :__](https://twitter.com/jigyasa_grover)
+[__Jigyasa :__](https://twitter.com/jigyasa_grover) Jigyasa is an Open Source Enthusiast. She has been awarded the Red Hat Women in Open Source 2017 award. Adding to her list of achievements, she is a GSoC scholar. She is also the director of Women Who Code Delhi.
 
 [__Umair :__](https://twitter.com/omerjerk) Umair is a full-stack developer with extensive Android and Web projects under his hat. He’s passionate about building scalable products from scratch. In his free time, he likes to contribute to open source.
 
@@ -70,6 +70,16 @@ After a long wait, came May 1st, "The" day. It was 6 AM in the morning, when bot
 
 ### The Supervisor
 
-[__Vaishali :__](http://vaishalithakkar.in/)
+[__Vaishali :__](http://vaishalithakkar.in/) Vaishali is an Open Source enthusiast and works as a Linux Kernel Engineer. She also conducts various Linux based workshops such as "Getting started with the Linux Kernel Hacking" to introduce new programmers to it.
 
 ## What we want to achieve by the end of Summer
+
+* **Learn** as much as we can - JavaScript, Rust, Git, any new tech, all about microcontrollers, their protocols - Basically any and everything that RGSoC and Tessel would be able to offer us.
+
+* **Work** and contribute to the community. Scale the Tessel project, add features to it, make projects that can help the community in some way using Tessel.
+
+* **Bond** with the community. We've heard from our seniors and read blogs, and have always been awed by the fact that teams from different parts of the world bond together. We are so excited to meet and talk to our fellow teams, know more about them, their culture and their work!
+
+* **Have fun!!**, because why not? 🙌🏼
+
+Here's to an amazing summer! 🎉 🍻 🎈``
