@@ -66,7 +66,7 @@ After a long wait, came May 1st, "The" day. It was 6 AM in the morning, when bot
 
 [__Divam :__](https://github.com/divamgupta) Divam is a Senior at IIIT Delhi, majoring in Computer Science. His interests lie in Data Science, more specifically Deep Learning. He is extremely fluent in Python and JavaScript and is always up for helping others.
 
-[__Diksha :__](http://dikshadeo.com/) Diksha Deo is a technology coach, speaker and Entrepreneur. Hails from New Delhi, working with various tech communities and owner of IoT solution provider company called Incubsence. Her endless curiosity and enthusiasm to learn and how everything works makes Diksha a "pro" in uniting digital and physical worlds.
+[__Diksha :__](http://dikshadeo.com/) Diksha Deo is a technology coach, speaker and entrepreneur. She is the owner of IoT solution provider company called Incubsence. Her endless curiosity and enthusiasm to learn and how everything works makes Diksha a "pro" in uniting digital and physical worlds.
 
 ### The Supervisor
 
