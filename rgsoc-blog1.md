@@ -48,7 +48,7 @@ It was January 18th, when we were casually scrolling through the list of selecte
 
 It was a cold January morning on the 20th, when we had our first video call with her. She was so supportive, introducing us to some contribution starters in Tessel, along with the work culture in an Open Source project. It made us more determined to apply, now that we knew Tessel was what we wanted to work on.
 
-It was February 2017 **(cracks knuckles)** and the application for RGSoC was in full swing. We were still devoid of coaches, which we were in dire need of. We first came across [Dana]() in the RGSoC Google Group, who was kind enough to agree to coach us - all the way from Hong Kong!
+It was February 2017 and applications for RGSoC were in full swing 💪🏼 ✌🏼. We were still devoid of coaches, which we were in dire need of. We first came across [Dana]() in the RGSoC Google Group, who was kind enough to agree to coach us - all the way from Hong Kong!
 
 On 3rd February, we got in touch with Jigyasa on twitter. She messaged us saying that she would be willing to coach our team during RGSoC 2017. We got in touch with another coach of ours, Umair through Jigyasa.
 
