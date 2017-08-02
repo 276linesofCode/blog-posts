@@ -40,4 +40,4 @@ Why are we here for?
 
 4. Have fun!!, because why not?
 
-We have completed one month of RGSoC. It seems just yesterday when it all started. The journey is filled with knowledge and thrills. We look forward to completing our summer of code with a zealous attitude.
+We have completed one month of RGSoC. It seems just yesterday when it all started. The journey is filled with knowledge and thrills looking for issues, sending Pull Requests, working on Tessel and its modules, having weekly calls with supervisor and mentor, writing daily updates etc. We look forward to completing our summer of code with a zealous attitude.
