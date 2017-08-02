@@ -28,7 +28,7 @@ The RGSoC team structure goes like this :
 
 RGSoC has both the sides - technical as well as social. Apart from working on the project, we even need to get involved in social meets such as a team call with the project supervisor, maintaining daily logs about what was achieved and what challenges we encountered that day, writing blog posts about our experiences etc.
 
-This year, 20 teams were selected among which, 16 are Sponsored teams (We are one of them 😄) and 4 are Volunteer teams.
+This year, 20 teams were selected among which, 16 are Sponsored teams (We are one of them :D) and 4 are Volunteer teams.
 
 Why are we here for?
 
