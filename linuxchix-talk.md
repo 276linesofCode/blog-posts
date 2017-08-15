@@ -5,3 +5,11 @@ Points:
 * About Tessel
 * Our contributions so far
 * Can show some sample videos - LED blinking, pushbutton etc
+
+-------------------------
+
+### Abstract
+
+Introduce the audience to what RGSoC (Rails Girls Summer of Code) is all about. Give a brief overview of Tessel.
+
+
