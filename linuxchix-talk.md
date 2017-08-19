@@ -5,6 +5,12 @@ Points:
 * About Tessel
 * Our contributions so far
 * Can show some sample videos - LED blinking, pushbutton etc
+* Practical demonstration
+  - Accelerometer 
+  - Servo
+  - LED blink/fade
+  - Push button
+  - Clap detector (Optional)
 
 -------------------------
 
