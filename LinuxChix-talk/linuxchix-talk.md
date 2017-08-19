@@ -1,21 +1,4 @@
-Points:
+https://vine.co/v/MXFMgbOQzpF
 
-* What is RGSoC all about? - including the application process and interviews, weekly calls, blog posts etc
-* Introduce the team
-* About Tessel
-* Our contributions so far
-* Can show some sample videos - LED blinking, pushbutton etc
-* Practical demonstration
-  - Accelerometer 
-  - Servo
-  - LED blink/fade
-  - Push button
-  - Clap detector (Optional)
-
--------------------------
-
-### Abstract
-
-Introduce the audience to what RGSoC (Rails Girls Summer of Code) is all about. Give a brief overview of Tessel.
 
 
