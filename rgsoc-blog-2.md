@@ -9,21 +9,6 @@ twitter: 276linesofCode
 categories: student-posts
 ---
 
-[Blog we can refer to](https://railsgirlssummerofcode.org/blog/2015-09-26-tremors)
-
-[Taneea Vrinda di's blog](https://github.com/rails-girls-summer-of-code/summer-of-code/blob/gh-pages/blog/_posts/2016-10-06-twitches-say-goodbye.md)
-
-Sub themes to write on -
-
-1. What did we do? (Screenshots of PRs, Tweets, Demos, GIFs, etc) DONE
-2. Challenges DONE
-3. Extras (Our talks in WWCD and LinuxChix India) DONE
-4. A shoutout to the amazing Tessel Community (All the people who've helped us make our PR's work) DONE
-5. How are we benefitted/Gonna use this knowledge?
-6. What's next?
-
---------  
-
 About two and a half months back, none of us had an idea of what this journey would be like. RGSoC had been the first Summer of Code or any other program as such that we were a part of, and our eagerness to grasp the most from the program had us going all throughout. Not to mention, we have gained so much more than we had even anticipated.
 
 ## Our Work this Summer
@@ -59,4 +44,6 @@ It was a great experience for both of us because we were able to pass on our kno
 
 ## What's next?
 
-RGSoC provided us with a whole lot of things that we not even imagined of gaining in this interval of three months. As it was a wonderful journey for both of us, we have thought of recommending this program to more and more people by conducting a few related meetups at our University under our Rails Girls Summer of Code, Delhi Chapter. Apart from this, we had discussed way back with our mentor during the application process that we would love to contribute to Tessel even after RGSoC ends. We both belive that Tessel was a community that introduced us to Open Source Contributions and removed our hesitation of asking doubts as trivial as they could be. They introduced us to the benefits of "Over Communication".
+RGSoC provided us with a whole lot of things that we not even imagined of gaining in this interval of three months. As it was a wonderful journey for both of us, we have thought of recommending this program to more and more people by conducting a few related meetups at our University under our Rails Girls Summer of Code, Delhi Chapter. Apart from this, we had discussed way back with our mentor during the application process that we would love to contribute to Tessel even after RGSoC ends. The months might be over, but the memories are here to stay!
+
+Who would know that two confused, scared and shy humans who had absolutely no idea how they would survive the tech world could successfully complete RGSoC, loaded with experience and confidence?
