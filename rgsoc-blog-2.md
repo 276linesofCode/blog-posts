@@ -17,7 +17,7 @@ Sub themes to write on -
 
 1. What did we do? (Screenshots of PRs, Tweets, Demos, GIFs, etc) DONE
 2. Challenges DONE
-3. Extras (Our talks in WWCD and LinuxChix India)
+3. Extras (Our talks in WWCD and LinuxChix India) DONE
 4. A shoutout to the amazing Tessel Community (All the people who've helped us make our PR's work) DONE
 5. How are we benefitted/Gonna use this knowledge?
 6. What's next?
