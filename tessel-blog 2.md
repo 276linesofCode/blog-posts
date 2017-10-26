@@ -1,3 +1,5 @@
+# Team 276linesofCode - Rails Girls Summer of Code 2017
+
 About two and a half months back, none of us had an idea of what this journey would be like. RGSoC had been the first Summer of Code or any other program as such that we were a part of, and our eagerness to grasp the most from the program had us going all throughout. Not to mention, we have gained so much more than we had even anticipated.
 
 We both believe that Tessel was the best project that we could have worked on since it welcomes new contributors in a positive manner that motivates them to give back to the community as much as they can.
